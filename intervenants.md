@@ -30,6 +30,8 @@
 # Psycho/Socio
     - Cayka et Viciss (Hacking Social) https://www.hacking-social.com/qui-sommes-nous/
     - Charlotte Barbier https://www.linkedin.com/in/charlotte-m-barbier/?originalSubdomain=fr https://www.youtube.com/channel/UC0efyK_-Athm8yhyjNSqndQ
+    - Neuroscience
+        - ->Laurie Galvan https://www.linkedin.com/in/lauriegalvan/?originalSubdomain=fr
 
 # L'histoire de la sciences
     - vulgarisation
@@ -55,8 +57,11 @@
     - Stastistique
         - ->Nathan Uyttendaele https://fr.wikipedia.org/wiki/Nathan_Uyttendaele
 
-# Histoire
+# Archéologie
     - ->Charlie Danger https://fr.wikipedia.org/wiki/Charlie_Danger
+    - ->Juliette Cazes https://expertes.fr/expertes/71632-juliette-cazes/
+    - ->Clothilde Chamussy https://fr.wikipedia.org/wiki/Clothilde_Chamussy
+    
 
 # Linguistique
     - ->Romain Filstroff https://fr.wikipedia.org/wiki/Romain_Filstroff
