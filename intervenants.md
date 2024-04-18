@@ -49,7 +49,7 @@
     - Environement
         - ->Valentine Delattre https://fr.wikipedia.org/wiki/Valentine_Delattre
 
-# Méthode scientifique
+# Méthode scientifique et zététique
     - ->Thomas C. Durand (ASTEC) https://fr.wikipedia.org/wiki/Thomas_C._Durand
 
 # Mathématiques
